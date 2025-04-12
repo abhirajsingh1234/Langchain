@@ -1,0 +1,16 @@
+{
+    "name": null,
+    "input_variables": [
+        "list",
+        "question"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "\n    user question only contain queries related to which indian document it is according to given data in question.\n    answer only with one word.\n    document is going to be one of the following: {list}\n\n\n\n**Question:** {question}\noutput json format: {{\n        \"document\": \"...\"\n    }}\n",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
