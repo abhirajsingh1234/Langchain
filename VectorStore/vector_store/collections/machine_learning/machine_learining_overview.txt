@@ -1,0 +1,38 @@
+Machine Learning (ML) and Deep Learning (DL) Overview
+-----------------------------------------------------
+
+1. Machine Learning (ML):
+Machine Learning is a subset of Artificial Intelligence (AI) that focuses on developing algorithms
+and statistical models that allow computers to perform tasks without being explicitly programmed.
+ML algorithms learn patterns from data to make predictions or decisions.
+
+Types of ML:
+- Supervised Learning: Model learns from labeled data (e.g., regression, classification).
+- Unsupervised Learning: Model identifies patterns in unlabeled data (e.g., clustering, dimensionality reduction).
+- Reinforcement Learning: Model learns by interacting with an environment to maximize rewards.
+
+Applications of ML:
+- Spam detection in emails
+- Predictive maintenance in manufacturing
+- Customer segmentation in marketing
+- Stock price prediction
+
+2. Deep Learning (DL):
+Deep Learning is a subset of Machine Learning that uses neural networks with multiple layers (deep neural networks)
+to model complex patterns in data. It is particularly effective for unstructured data such as images, audio, and text.
+
+Key Concepts:
+- Artificial Neural Networks (ANN): Layers of nodes (neurons) that process input data to produce output.
+- Convolutional Neural Networks (CNN): Specialized for image processing.
+- Recurrent Neural Networks (RNN) & LSTMs: Specialized for sequential data like text and time series.
+- Transformers: Modern architectures for NLP tasks (e.g., GPT, BERT).
+
+Applications of DL:
+- Image recognition (e.g., self-driving cars)
+- Natural language processing (e.g., chatbots, translation)
+- Speech recognition
+- Generative AI (e.g., image and text generation)
+
+Summary:
+ML is great for structured data and traditional predictive tasks, whereas DL excels at learning complex patterns
+from large amounts of unstructured data. Both fields are essential for modern AI applications.
